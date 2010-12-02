@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" version="3">
+  <includeClasses>
+    <classEntry path="com.classsoftware.statemachine.StateMachine"/>
+    <classEntry path="com.classsoftware.history.History"/>
+    <classEntry path="com.classsoftware.statemachine.model.State"/>
+    <classEntry path="com.classsoftware.statemachine.model.Action"/>
+    <classEntry path="flexUnitTests.HistoryTest"/>
+    <classEntry path="com.classsoftware.statemachine.HistoryStateMachine"/>
+    <classEntry path="flexUnitTests.StateMachineTest"/>
+    <classEntry path="flexUnitTests.HistoryStateMachineTest"/>
+    <classEntry path="com.classsoftware.statemachine.model.ActionHandler"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
